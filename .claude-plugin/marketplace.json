@@ -1,0 +1,15 @@
+{
+  "name": "cadence",
+  "owner": {
+    "name": "Cadence",
+    "url": "https://cadenceworkflow.io/"
+  },
+  "plugins": [
+    {
+      "name": "cadence",
+      "source": "./",
+      "description": "Comprehensive skill for building, debugging, and operating Cadence workflows, activities, and workers across the Go, Java, and Python SDKs.",
+      "version": "0.1.0"
+    }
+  ]
+}
